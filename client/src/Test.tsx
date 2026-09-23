@@ -1,4 +1,4 @@
-const Test: React.FC = () => {
+const Test = () => {
   return (
     <div>
       <h1>Test Component</h1>
